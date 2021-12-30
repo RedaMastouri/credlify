@@ -1,0 +1,70 @@
+Certification Schedule 
+
+
+ORACLE 
+https://login.oracle.com/mysso/signon.jsp
+You may note that for the next 45 days, all OCI certifications and Oracle Autonomous Database certifications can be taken for free by anyone!!
+ 
+Starting now, any user, including developers, technical professionals, architects, students and professors, will have quick and easy access to more than 50 hours of online training and 6 certification exams.
+·       Oracle Autonomous Database Specialist
+·       Oracle Cloud Infrastructure Foundations Associate
+·       Oracle Cloud Infrastructure Cloud Operations Associate
+·       Oracle Cloud Infrastructure Developer Associate
+·       Oracle Cloud Infrastructure Architect Associate
+·       Oracle Cloud Infrastructure Architect Professional
+Please check the below URL for steps
+ 
+https://www.oracle.com/corporate/blog/free-certifications-oracle-oci-autonomous-033020.html
+
+
+
+Forensics 
+https://training.autopsy.com/enrollments
+
+Network 
+
+
+Microsoft
+https://www.icsi.co.uk/pages/cyber-skills-scolarships
+https://docs.microsoft.com/en-us/learn/certifications/azure-ai-engineer?wt.mc_id=learningredirect_certs-web-wwl&tab=tab-learning-paths
+
+Coursera: 
+All classes-
+Machine Learning for Business Professionals
+https://www.classcentral.com/course/machine-learning-business-professionals-13415
+https://docs.microsoft.com/en-us/learn/certifications/roles/data-scientist
+
+IBM (Financial Aid)
+https://www.ibm.com/analytics/data-science?p1=Search&p4=p50329259837&p5=b&cm_mmc=Search_Google-_-1S_1S-_-WW_NA-_-%2Bibm%20%2Bdata%20%2Bscience_b&cm_mmca7=71700000060951037&cm_mmca8=kwd-313637477667&cm_mmca9=EAIaIQobChMIt4u9-cK36QIVGq_ICh3yCQgREAAYASAAEgJ-wvD_BwE&cm_mmca10=406181218016&cm_mmca11=b&gclsrc=ds
+
+
+Data Science
+https://www.classcentral.com/course/datasciencemathskills-7745
+
+
+Tableau 
+https://www.tableau.com/learn/tutorials/on-demand/getting-started?playlist=484034
+
+
+Applied Data Science with Python
+https://www.coursera.org/specializations/data-science-python
+
+Fiancial planning
+https://www.coursera.org/payments/checkout?cartId=66258354
+
+
+Free week Datacamp
+https://www.datacamp.com/community/blog/free-week
+https://datacamp.com/freeweek
+
+
+and CTF
+
+
+The trilogy is complete 😊
+- Oracle Cloud Infrastructure 2019 Architect Associate
+- Oracle Cloud Infrastructure 2019 Cloud Operations Associate
+- Oracle Cloud Infrastructure Foundations 2020 Certified Associate
+I would like to thank Rohit Rahi, Larry Beausoleil and Eli Schilling for the excellent courses.
+Special thanks to Oracle for the opportunity and Yujun Liang - TOGAF for inspiring us.
+#learnoracle #oracle #oraclecloudinfrastructure #certified
